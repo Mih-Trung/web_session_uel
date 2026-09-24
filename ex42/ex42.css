@@ -1,0 +1,59 @@
+body {
+    color: green;
+    background: white url("Draft.jpg") no-repeat fixed center center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color: goldenrod;
+}
+
+.quot {
+    color: goldenrod;
+}
+
+address {
+    font-size: 0.9em;
+    font-style: italic;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+blockquote {
+    background-color: silver;
+}
+
+ul {
+    list-style: circle url("image/Apple.jpg") outside;
+}
+
+ul b {
+    color: rgb(155, 0, 0);
+}
+
+a {
+    font-size: 0.9em;
+    color: green;
+}
+
+a:hover {
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.Special {
+    color: rgb(153, 102, 6);
+    font-weight: bold;
+}
+
+div.Article {
+    padding: 0.5em;
+    border: 2px solid;
+    background-color: rgb(252, 221, 163);
+    width: 250px;
+    float: right;
+}
