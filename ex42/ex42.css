@@ -36,11 +36,11 @@ ul b {
 
 a {
     font-size: 0.9em;
-    color: green;
+    color: blue;
 }
 
 a:hover {
-    color: red;
+    color: blue;
     text-transform: uppercase;
     font-weight: bold;
 }
